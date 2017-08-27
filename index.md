@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# First Post: An Intro
+Hello my name is Miles Morgan, I am currently a senior attending the University of Mississippi. I am a double major in Political Science and Criminal Justice, with a minor in Professional Writing. I have lived in Oxford for twelve years but I am originally from New Orleans, having evacuated here during hurricane Katrina, I have a twin brother that is currently serving in the Air Force and a mother that works in St. Thomas, USVI with the blind and visually impaired. Interests include reading, writing, weightlifting, and travelling (been to three different countries so far: Australia, Brasil, and Mexio). I really want to see about getting a cat and a dog this year?
 
-You can use the [editor on GitHub](https://github.com/MiloMorgan/Writ-300-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Why Professional Writing 
+I chose professional writing because it directly ties into what I want to do as a career: research. I hope the minor will help me develop a "professional voice", so to speak, in the articles I plan to publish one day. I also chose this minor to give me not only more experience writing but also a more rigorous one than what my other majors may offer, which will help my technical skills, staying on schedule, and bettering my writing overall. The classes in the minor have also allowed me some freedom in choosing what I want to write about, something not offered in my Poli sci and CJ classes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiloMorgan/Writ-300-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Courses I'm Interested In 
+- Writ 410, especially so 
+- Writ 310
